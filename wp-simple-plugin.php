@@ -10,8 +10,8 @@
  * License: GPLv2
  */
 
-defined( 'ABSPATH' ) or die( "Access denied !" );
+defined( 'ABSPATH' ) or die( 'Access denied !' );
 
-define('WPSP_NAME','wp-simple-plugin');
+define( 'WPSP_NAME','wp-simple-plugin' );
 
-define( "WPSP_URL", trailingslashit( plugin_dir_url( __FILE__ ) ) );
+define( 'WPSP_URL', trailingslashit( plugin_dir_url( __FILE__ ) ) );
