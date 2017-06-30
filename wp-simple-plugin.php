@@ -7,6 +7,7 @@
  * Author: Mignon Style
  * Author URI:
  * License: GPLv2
+ *
  * @package WordPress Simple Plugin
  */
 
