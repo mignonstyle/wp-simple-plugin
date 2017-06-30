@@ -11,3 +11,7 @@
  */
 
 defined( 'ABSPATH' ) or die( "Access denied !" );
+
+define('WPSP_NAME','wp-simple-plugin');
+
+define( "WPSP_URL", trailingslashit( plugin_dir_url( __FILE__ ) ) );
