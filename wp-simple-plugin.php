@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Plugin Name: WordPress Simple Plugin
  * Plugin URI:
@@ -10,6 +9,7 @@
  * License: GPLv2
  * @package WordPress Simple Plugin
  */
+
 defined( 'ABSPATH' ) or die( 'Access denied !' );
 
 define( 'WPSP_NAME','wp-simple-plugin' );
